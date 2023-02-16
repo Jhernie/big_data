@@ -1,2 +1,2 @@
-# big_data
-Putting my ETL skills to the test
+# big_data_etl
+Creating data pipelines to practice the ETL process.
